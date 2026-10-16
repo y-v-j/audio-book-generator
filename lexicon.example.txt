@@ -1,0 +1,9 @@
+# Pronunciation fixes: one "word = how to say it" per line. Matching ignores case.
+# Copy to ~/.config/audio-book-generator/lexicon.txt (used automatically),
+# or pass a file with --lexicon. Check the result with 'abgen preview --text "..."'.
+
+221B = two twenty-one B
+Hermione = Her-my-oh-nee
+Worcestershire = Wuss-ter-sheer
+St John = Sinjun
+Magdalen = Maudlin

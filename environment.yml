@@ -1,0 +1,14 @@
+name: py-ebook
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - kokoro-onnx>=0.6.1
+      - beautifulsoup4>=4.12
+      - lxml>=5
+      - num2words>=0.5.13
+      - numpy>=2
+      - pypdf>=5
+      - pytest>=8

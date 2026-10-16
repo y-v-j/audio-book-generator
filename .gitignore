@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/
+venv/
+
+# Books and audio made with the tool, or used as input: never commit these
+samples/
+*.epub
+*.pdf
+*.m4b
+*.m4a
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.opus
+
+# Model files (downloaded by 'abgen models')
+*.onnx
+*.bin
+
+# Personal pronunciation lists and logs
+lexicon.txt
+*.log
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
