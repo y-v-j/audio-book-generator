@@ -1,0 +1,15 @@
+# GitHub Pages: README.md rendered with the Midnight Ink theme (_layouts/default.html).
+lang: en
+author: Yogesh
+tagline: "PDFs to EPUBs to narrated audiobooks"
+nav:
+  - title: "Install"
+    url: "#installation"
+  - title: "Usage"
+    url: "#usage"
+  - title: "Voices"
+    url: "#voices"
+license_name: "MIT"
+copyright: "© 2026 Yogesh"
+plugins:
+  - jekyll-seo-tag
